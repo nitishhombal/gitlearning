@@ -1,1 +1,2 @@
 This is change in the file
+This line is added with an intention to create a merge conflict
