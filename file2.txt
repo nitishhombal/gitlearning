@@ -7,3 +7,8 @@ catch errors:
 		//block
 	}
 
+if (confition){
+	//statements
+}else {
+	//statements
+}
